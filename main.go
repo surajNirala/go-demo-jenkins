@@ -6,6 +6,6 @@ func main(){
   fmt.Println("SCM Jenkinsjjj")
   fmt.Println("Error found")
   for i:=1;i<=10;i++{
-    fmt.Println ("number Error :== ", i
+    fmt.Println ("Number :== ", i)
   }
 }
